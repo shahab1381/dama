@@ -1,0 +1,14 @@
+/home/shahab/Desktop/dama/bin/Debug/net8.0/dama
+/home/shahab/Desktop/dama/bin/Debug/net8.0/dama.deps.json
+/home/shahab/Desktop/dama/bin/Debug/net8.0/dama.runtimeconfig.json
+/home/shahab/Desktop/dama/bin/Debug/net8.0/dama.dll
+/home/shahab/Desktop/dama/bin/Debug/net8.0/dama.pdb
+/home/shahab/Desktop/dama/obj/Debug/net8.0/dama.GeneratedMSBuildEditorConfig.editorconfig
+/home/shahab/Desktop/dama/obj/Debug/net8.0/dama.AssemblyInfoInputs.cache
+/home/shahab/Desktop/dama/obj/Debug/net8.0/dama.AssemblyInfo.cs
+/home/shahab/Desktop/dama/obj/Debug/net8.0/dama.csproj.CoreCompileInputs.cache
+/home/shahab/Desktop/dama/obj/Debug/net8.0/dama.dll
+/home/shahab/Desktop/dama/obj/Debug/net8.0/refint/dama.dll
+/home/shahab/Desktop/dama/obj/Debug/net8.0/dama.pdb
+/home/shahab/Desktop/dama/obj/Debug/net8.0/dama.genruntimeconfig.cache
+/home/shahab/Desktop/dama/obj/Debug/net8.0/ref/dama.dll
